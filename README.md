@@ -72,6 +72,15 @@ http://localhost/user_api/api/delete_usuarios/6
 Nota: la aplicación está en modo producción así que no se requiere de ningún comando para levantarla, vasta con que este creada la base de datos y la carpeta user_api se encuentre dentro del servidor web para funcionar.
 
 
+librerias complemetarias para crear api en Symfony 
+Elao Json Form
+https://github.com/Elao/ElaoJsonHttpFormBundle
+Nelmio Cors
+https://github.com/nelmio/NelmioCorsBundle
+Tokens
+https://github.com/lexik/LexikJWTAuthenticationBundle
+
+
 
 
 
