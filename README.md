@@ -73,16 +73,16 @@ Nota: la aplicación está en modo producción así que no se requiere de ningú
 
 
 librerias complemetarias para crear api en Symfony 
-Elao Json Form
-https://github.com/Elao/ElaoJsonHttpFormBundle
-Nelmio Cors
-https://github.com/nelmio/NelmioCorsBundle
-Tokens
-https://github.com/lexik/LexikJWTAuthenticationBundle
+Elao Json Form <br>
+https://github.com/Elao/ElaoJsonHttpFormBundle<br>
+Nelmio Cors<br>
+https://github.com/nelmio/NelmioCorsBundle<br>
+Tokens<br>
+https://github.com/lexik/LexikJWTAuthenticationBundle<br>
 
-composer require symfony/validator 
-composer require symfony/form 
-composer require symfony/orm-pack
+composer require symfony/validator <br
+composer require symfony/form <br
+composer require symfony/orm-pack <br>
 composer require symfony/maker-bundle
 
 
