@@ -80,6 +80,11 @@ https://github.com/nelmio/NelmioCorsBundle
 Tokens
 https://github.com/lexik/LexikJWTAuthenticationBundle
 
+composer require symfony/validator 
+composer require symfony/form 
+composer require symfony/orm-pack
+composer require symfony/maker-bundle
+
 
 
 
